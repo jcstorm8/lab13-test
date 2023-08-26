@@ -1,6 +1,12 @@
 package prob1;
 
-public class BasketballPlayer {
+	/**
+	*Represents a basketball player ZZZ
+	*
+	*
+	*/
+
+	public class BasketballPlayer {
 
 	private int	freeThrowsAttempted;
 	private int	freeThrowsMade;
@@ -14,7 +20,7 @@ public class BasketballPlayer {
 		this.name = name;
 	}
 	
-	//getter ZZZ
+	//getter
 	public int getFreeThrowsAttempted() {
 		return freeThrowsAttempted;
 	}
