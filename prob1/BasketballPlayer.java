@@ -14,7 +14,7 @@ public class BasketballPlayer {
 		this.name = name;
 	}
 	
-	//getter
+	//getter ZZZ
 	public int getFreeThrowsAttempted() {
 		return freeThrowsAttempted;
 	}
